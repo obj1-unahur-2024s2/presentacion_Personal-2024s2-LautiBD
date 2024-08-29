@@ -1,17 +1,8 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Lautaro Diaz
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
+Hola! Mi nombre es Lautaro, tengo 22 años, trabajo de desarrollador web y community manager en una agencia. Soy estudiante de la técnicatura en programación e hincha  fanático de San Lorenzo y de Messi
 ```
 
 ## Datos de la cursada :book:
